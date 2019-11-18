@@ -16,6 +16,7 @@ body,
   padding-left: 50px;
   background-repeat: no-repeat;
   background-image: url("https://www.affinitylogon.com/Content/images/footerLogo.png");
+  background-size: 40px;
   z-index: 9999998; }
 .newui #citrixlogin a {
     color: #666; }
